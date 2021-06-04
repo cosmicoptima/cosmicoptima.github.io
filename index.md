@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "hi"
+title: home
 ---
 
-testing, but again
+# welcome
+
+this site will be home to important posts
