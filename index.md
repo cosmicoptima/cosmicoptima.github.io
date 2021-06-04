@@ -1,3 +1,6 @@
-# hi
+---
+layout: default
+title: "hi"
+---
 
-testing
+testing, but again
