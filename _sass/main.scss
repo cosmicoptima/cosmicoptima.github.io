@@ -1,9 +1,31 @@
-$backgroundColor: #ffffff;
-$bodyColor: #000000;
-$bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+@font-face {
+  font-family: Inter;
+  src: url("../fonts/Inter.var.woff2");
+}
 
 body {
-  background: $backgroundColor;
-  color: $bodyColor;
-  font-family: $bodyFont;
+  background: #fff;
+  color: #000;
+  font-family: Inter;
+
+  margin: 0 auto;
+  width: 80%;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: blue;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  height: 3em;
+}
+
+.footer-item {
+  padding-right: 1em;
 }
