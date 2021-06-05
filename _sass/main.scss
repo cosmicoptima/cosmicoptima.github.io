@@ -32,16 +32,28 @@ p {
   line-height: 1.6em;
 }
 
+.bar-item {
+  padding-right: 1em;
+}
+
+.buffer {
+  height: 1em;
+}
+
+.header {
+  margin: 2em 0 0.5em;
+}
+
+.header a {
+  color: #666;
+}
+
 .main {
   flex-grow: 1;
-  margin-top: 1em;
+  // margin-top: 1em;
 }
 
 .footer {
   margin-top: 1em;
   min-height: 3em;
-}
-
-.footer-item {
-  padding-right: 1em;
 }
