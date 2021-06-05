@@ -5,4 +5,4 @@ title: home
 
 # welcome
 
-this site will be home to important posts
+this site will be home to many important posts
