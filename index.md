@@ -7,5 +7,5 @@ title: home
 
 this site will be home to many important posts
 
-~ [home](/)  
 ~ [about](/about)
+~ [faq](/faq)
