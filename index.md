@@ -5,7 +5,7 @@ title: home
 
 # welcome
 
-this site will be home to many important posts
+this site is for state-of-the-art posts
 
 ~ [about](/about)
 ~ [faq](/faq)
