@@ -7,5 +7,5 @@ title: home
 
 this site is for state-of-the-art posts
 
-~ [about](/about)
+~ [about](/about)  
 ~ [faq](/faq)
