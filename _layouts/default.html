@@ -1,27 +1,38 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-    <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta charset="utf-8">
-        <title>{{ page.title }} - {{ site.title }}</title>
-        <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-    </head>
-    <body>
-        {% if page.title != "home" %}
-            <div class="header">
-                <a href="/">← home</a>
-            </div>
-        {% else %}
-            <div class="buffer"></div>
-        {% endif %}
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+    <link rel="icon" href="/assets/images/favicon.png">
+  </head>
+  <body>
+    {% if page.title != "home" %}
+    <div class="header">
+      <a href="/">← home</a>
+    </div>
+    {% else %}
+    <div class="buffer"></div>
+    {% endif %}
 
-        <div class="main">
-            {{ content }}
-        </div>
+    <div class="container">
+      {% if page.title != "home" %}
+      <h1 class="heading">{{ page.title }}</h1>
+      {% endif %}
+      <div class="main">{{ content }}</div>
 
-        <div class="footer">
-            <a href="https://twitter.com/parafactual" class="bar-item">twitter</a>
-            <a href="https://github.com/cosmicoptima" class="bar-item">github</a>
-        </div>
-    </body>
+      <div class="contents">
+	{% if page.post %}
+	<h3>contents</h3>
+        {% include toc.html html=content h_min=2 class="toc" %}
+	{% endif %}
+      </div>
+    </div>
+
+    <div class="footer">
+      <a href="https://twitter.com/parafactual" class="bar-item">twitter</a>
+      <a href="https://github.com/cosmicoptima" class="bar-item">github</a>
+    </div>
+  </body>
 </html>
