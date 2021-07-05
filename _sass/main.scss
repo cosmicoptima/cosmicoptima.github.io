@@ -55,7 +55,6 @@ p {
     .contents {
 	background-color: #eee;
 	margin-top: 1em;
-	padding-left: 2em;
     }
 }
 
@@ -86,6 +85,7 @@ p {
 
 .contents {
     grid-area: toc;
+    padding-left: 1em;
 }
 
 .contents h3 {
