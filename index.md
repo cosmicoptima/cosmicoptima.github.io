@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: home
 title: home
 ---
 
-# welcome
+# prul
 
 this site is for state-of-the-art posts
 
