@@ -43,25 +43,6 @@ p {
 			 "main    toc";
 }
 
-@media all and (max-width: 960px) {
-    body {
-	width: 90%;
-    }
-    
-    .container {
-	grid-template-columns: 1fr;
-	grid-template-rows: min-content min-content auto;
-	grid-template-areas: "heading"
-			     "toc"
-			     "main";
-    }
-
-    .contents {
-	background-color: #eee;
-	margin-top: 1em;
-    }
-}
-
 .buffer {
     height: 1em;
 }
@@ -89,7 +70,7 @@ p {
 
 .contents {
     grid-area: toc;
-    padding-left: 1em;
+    padding-left: 2em;
 }
 
 .contents h3 {
@@ -121,4 +102,24 @@ p {
 
 .footer-item {
     padding-right: 1em;
+}
+
+@media all and (max-width: 960px) {
+    body {
+	width: 90%;
+    }
+    
+    .container {
+	grid-template-columns: 1fr;
+	grid-template-rows: min-content min-content auto;
+	grid-template-areas: "heading"
+			     "toc"
+			     "main";
+    }
+
+    .contents {
+	background-color: #eee;
+	margin-top: 1em;
+	padding-left: 1em;
+    }
 }
