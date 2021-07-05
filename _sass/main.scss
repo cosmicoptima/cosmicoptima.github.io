@@ -86,6 +86,10 @@ p {
     margin-bottom: -1em;
 }
 
+.home {
+    flex-grow: 1;
+}
+
 .main {
     grid-area: main;
 }

@@ -8,25 +8,8 @@
     <link rel="icon" href="/assets/images/favicon.png">
   </head>
   <body>
-    {% if page.title != "home" %}
-    <div class="header">
-      <a href="/">← home</a>
-    </div>
-    {% endif %}
-
-    <div class="container">
-      {% if page.title != "home" %}
-      <h1 class="heading">{{ page.title }}</h1>
-      {% endif %}
-      <div class="main">{{ content }}</div>
-
-      {% if page.post %}
-      <div class="contents">
-	<h3>contents</h3>
-        {% include toc.html html=content h_min=2 class="toc" %}
-      </div>
-      {% endif %}
-    </div>
+    <div class="buffer"></div>
+    <div class="home">{{ content }}</div>
 
     <div class="footer">
       <a href="https://twitter.com/parafactual" class="bar-item">twitter</a>
