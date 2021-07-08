@@ -8,4 +8,5 @@ title: home
 this site is for state-of-the-art posts
 
 ~ [about](/about)  
-~ [faq](/faq)
+~ [faq](/faq)  
+~ [projects](/projects)
