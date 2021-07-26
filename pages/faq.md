@@ -15,3 +15,10 @@ https://twitter.com/messages/compose?recipient_id=1252277511746183168)
 https://twitter.com/xuenay/status/1411933961379631105))
 
 yes
+
+## what are your favorite things about yourself
+
+(asked 3 times by [loopy](
+https://twitter.com/strangestloop/status/1416964200228864003))
+
+there are too many things about myself to evaluate
