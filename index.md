@@ -5,7 +5,7 @@ title: home
 
 # celeste
 
-this site is for state-of-the-art posts
+my website, home of content
 
 ~ [about](/about)  
 ~ [faq](/faq)  
