@@ -14,7 +14,7 @@ https://twitter.com/messages/compose?recipient_id=1252277511746183168)
 (asked 3 times by [kaj sotala](
 https://twitter.com/xuenay/status/1411933961379631105))
 
-yes
+you have to dm me
 
 ## what are your favorite things about yourself
 
