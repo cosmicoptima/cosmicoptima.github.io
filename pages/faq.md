@@ -18,7 +18,14 @@ yes
 
 ## what are your favorite things about yourself
 
-(asked 3 times by [loopy](
+([loopy](
 https://twitter.com/strangestloop/status/1416964200228864003))
 
-there are too many things about myself to evaluate
+(todo)
+
+## what is the slime mold infected with
+
+([observer of suns](
+https://twitter.com/ObserverSuns/status/1423775282607976448?s=20))
+
+posts too much
