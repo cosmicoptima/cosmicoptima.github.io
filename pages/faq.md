@@ -26,6 +26,6 @@ https://twitter.com/strangestloop/status/1416964200228864003))
 ## what is the slime mold infected with
 
 ([observer of suns](
-https://twitter.com/ObserverSuns/status/1423775282607976448?s=20))
+https://twitter.com/ObserverSuns/status/1423775282607976448))
 
 posts too much
