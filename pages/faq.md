@@ -32,6 +32,6 @@ posts too much
 
 ## do you like clocks
 
-(anonymous)
+([duck_master](https://duck-master.github.io))
 
 i prefer to carry a sundial around with me
