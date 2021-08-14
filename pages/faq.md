@@ -29,3 +29,9 @@ https://twitter.com/strangestloop/status/1416964200228864003))
 https://twitter.com/ObserverSuns/status/1423775282607976448))
 
 posts too much
+
+## do you like clocks
+
+(anonymous)
+
+i prefer to carry a sundial around with me
