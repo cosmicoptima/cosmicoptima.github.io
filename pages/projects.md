@@ -4,6 +4,8 @@ title: projects
 permalink: /projects/
 ---
 
-things i've done
+things i am doing
 
-(todo)
+~ [https://github.com/cosmicoptima/birdwatch](birdwatch), a twitter scraper (wip)
+~ [https://github.com/cosmicoptima/qt](qt), a non-addictive twitter client (even more wip)
+~ other secret things that actually aren't related to twitter
