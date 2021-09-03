@@ -9,7 +9,7 @@ with open("data/proposals.json") as f:
 
 for index in range(len(proposals) - 1, -1, -1):
     # so that it does not run itself
-    if index != 20:
+    if index != 20 and proposals[index] == "passed":
         for _ in range(3):
             subprocess.run(["python3", f"{PROPOSALS_DIR}/{index}.py"])
 
