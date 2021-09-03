@@ -162,9 +162,10 @@ async def on_reaction_add(reaction, user):
 
             # THIS IS A BAD SYSTEM PLEASE FIX
             # CHANGES WILL TOTALLY OVERRIDE ANY MADE AFTER THEY WERE UPLOADED
-            with open(OWN_FILE, "w") as f:
-                with open(proposal_path) as g:
-                    f.write(g.read())
+            # (update: manager handles this)
+            # with open(OWN_FILE, "w") as f:
+            #     with open(proposal_path) as g:
+            #         f.write(g.read())
             # restart to apply changes
             await client.close()
         else:
