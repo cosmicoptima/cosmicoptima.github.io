@@ -7,10 +7,10 @@ from textwrap import dedent
 import subprocess
 from sys import argv, exit
 
-OWN_FILE = "app.py"
-PROPOSALS_DIR = "data/proposals"
-PROPOSALS_FILE = "data/proposals.json"
-TOKEN_FILE = "data/token"
+OWN_FILE = "19.py"
+PROPOSALS_DIR = ".."
+PROPOSALS_FILE = "../../proposals.json"
+TOKEN_FILE = "../../token"
 APPROVED_FORM_OF_ADDRESS_FOR_DICTATOR = "Glorious Dictator"
 APPROVED_RESPONSE_TO_DICTATOR = (
     f"As you command, {APPROVED_FORM_OF_ADDRESS_FOR_DICTATOR}"
