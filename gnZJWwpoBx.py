@@ -2,7 +2,7 @@ import json
 import subprocess
 
 # i am paranoid now so we use absolute path
-PROPOSALS_DIR = "/home/celeste/Software/public/nomic/data/proposals"
+PROPOSALS_DIR = "/home/celeste/Software/nomic/data/proposals"
 
 with open("data/proposals.json") as f:
     proposals = json.load(f)
