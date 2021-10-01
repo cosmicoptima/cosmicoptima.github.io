@@ -4,4 +4,10 @@ title: about
 permalink: /about/
 ---
 
-go fuck yourself
+hi, i'm celeste! i'm interested in:
+
+~ programming  
+~ computational and emergent art  
+~ rationality and ideology
+
+i have a few [projects](/projects)
