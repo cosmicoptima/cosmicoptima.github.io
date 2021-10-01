@@ -11,3 +11,5 @@ hi, i'm celeste! i'm interested in:
 ~ rationality and ideology
 
 i have a few [projects](/projects)
+
+(todo: add more detail)
