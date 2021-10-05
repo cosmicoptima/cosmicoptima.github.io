@@ -8,7 +8,7 @@ hi, i'm celeste
 
 ## contact
 
-**email:** parafactual {arobase} gmail.com  
+**email:** <u>parafactual</u> {arobase} <u>gmail.com</u>  
 **discord:** celeste#2692
 
 ## experience
