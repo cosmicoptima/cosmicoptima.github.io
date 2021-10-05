@@ -22,14 +22,13 @@ not really
 _(most of my work until very recently has not been public, which is why this_
 _list is so sparse)_
 
-#### **[mu](https://github.com/cosmicoptima/mu)** (sep-oct 2021)
+**[mu](https://github.com/cosmicoptima/mu)** (sep 2021 - present)
 
-~ i worked on [birdwatch](https://github.com/cosmicoptima/birdwatch), which
-bypasses the twitter api's rate limits  
-~ i wrote this site's css; once i switch from github pages i will be able to
-credit more to myself  
-~ i did [this](https://twitter.com/parafactual/status/1381375742978703361), but
-i lost the source and it was badly organized nonetheless
+**[birdwatch](https://github.com/cosmicoptima/birdwatch)** (june 2021)
+
+**this site** (june 2021 - present)
+
+**[twitter hybrid experiment](https://twitter.com/parafactual/status/1381375742978703361)** (apr 2021)
 
 ## skills
 
