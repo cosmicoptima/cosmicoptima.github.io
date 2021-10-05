@@ -19,7 +19,13 @@ not really
 
 ### personal
 
-~ i working on [mu](https://github.com/cosmicoptima/mu), an mpd client in haskell  
+_(most of my work until very recently has not been public, which is why this_
+_list is so sparse)_
+
+#### **[mu](https://github.com/cosmicoptima/mu)**
+
+_(sep-oct 2021)_
+
 ~ i worked on [birdwatch](https://github.com/cosmicoptima/birdwatch), which
 bypasses the twitter api's rate limits  
 ~ i wrote this site's css; once i switch from github pages i will be able to
