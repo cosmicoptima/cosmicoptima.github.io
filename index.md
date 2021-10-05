@@ -8,5 +8,6 @@ title: home
 my website, home of content
 
 ~ [about](/about)  
+~ [resume](/resume)  
 ~ [faq](/faq)  
 ~ [projects](/projects)
