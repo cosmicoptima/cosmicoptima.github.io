@@ -8,4 +8,12 @@ hi, i'm celeste
 
 ## contact
 
-**email:** parafactual {arobase} gmail \<full stop\> com
+**email:** parafactual _{arobase}_ gmail _\<small circle\>_ com
+
+## experience
+
+### professional
+
+not really
+
+### personal
