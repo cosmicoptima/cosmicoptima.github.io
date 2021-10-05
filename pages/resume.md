@@ -22,9 +22,7 @@ not really
 _(most of my work until very recently has not been public, which is why this_
 _list is so sparse)_
 
-#### **[mu](https://github.com/cosmicoptima/mu)**
-
-_(sep-oct 2021)_
+#### **[mu](https://github.com/cosmicoptima/mu)** (sep-oct 2021)
 
 ~ i worked on [birdwatch](https://github.com/cosmicoptima/birdwatch), which
 bypasses the twitter api's rate limits  
