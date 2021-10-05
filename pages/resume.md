@@ -17,3 +17,5 @@ hi, i'm celeste
 not really
 
 ### personal
+
+~ i'm working on [mu](https://github.com/cosmicoptima/mu)
