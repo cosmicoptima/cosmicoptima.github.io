@@ -20,12 +20,12 @@ not really
 ### personal
 
 ~ i working on [mu](https://github.com/cosmicoptima/mu), an mpd client in haskell  
-~ i worked on [birdwatch](https://github.com/cosmicoptima/birdwatch), which bypasses
-the twitter api's rate limits  
+~ i worked on [birdwatch](https://github.com/cosmicoptima/birdwatch), which
+bypasses the twitter api's rate limits  
 ~ i wrote this site's css; once i switch from github pages i will be able to
 credit more to myself  
-~ i did [this](https://twitter.com/parafactual/status/1381375742978703361),
-but i lost the source and it was badly organized nonetheless
+~ i did [this](https://twitter.com/parafactual/status/1381375742978703361), but
+i lost the source and it was badly organized nonetheless
 
 ## skills
 
@@ -39,4 +39,5 @@ not necessarily, but probably in this order:
 
 ## education
 
-i am 16 and graduated high school early; i have a diploma but no degree
+~ **north high school** 2019-2021; i've graduated early to focus on other
+pursuits
