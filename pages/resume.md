@@ -18,6 +18,8 @@ not really
 
 ### personal
 
-~ i'm working on [mu](https://github.com/cosmicoptima/mu)  
+~ i'm working on [mu](https://github.com/cosmicoptima/mu), an mpd client in haskell  
+~ i worked on [birdwatch](https://github.com/cosmicoptima/birdwatch), which bypasses
+twitter's rate limits  
 ~ i did [this](https://twitter.com/parafactual/status/1381375742978703361),
-but the source isn't public and it was a bit of a mess
+but i lost the source and it was badly organized nonetheless
