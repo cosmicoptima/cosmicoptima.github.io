@@ -8,7 +8,7 @@ hi, i'm celeste
 
 ## contact
 
-**email:** parafactual {arobase} gmail \<small circle\> com  
+**email:** parafactual {arobase} {google's ubiquitous mail service}  
 **discord:** celeste#2692
 
 ## experience
@@ -22,7 +22,7 @@ not really
 ~ i working on [mu](https://github.com/cosmicoptima/mu), an mpd client in haskell  
 ~ i worked on [birdwatch](https://github.com/cosmicoptima/birdwatch), which bypasses
 the twitter api's rate limits  
-~ i wrote this site's css; once i switch from jekyll i will be able to
+~ i wrote this site's css; once i switch from github pages i will be able to
 credit more to myself  
 ~ i did [this](https://twitter.com/parafactual/status/1381375742978703361),
 but i lost the source and it was badly organized nonetheless
