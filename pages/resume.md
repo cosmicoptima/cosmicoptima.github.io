@@ -4,7 +4,7 @@ title: resume
 permalink: /resume/
 ---
 
-hi, i'm celeste
+hi, i'm **celeste drummond**
 
 ## contact
 
@@ -39,5 +39,5 @@ not necessarily, but probably in this order:
 
 ## education
 
-~ **north high school** (2019-2021): i've graduated early to focus on other
+**north high school** (2019-2021): i've graduated early to focus on other
 pursuits
