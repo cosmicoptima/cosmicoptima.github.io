@@ -54,4 +54,3 @@ of.
 ## education
 
 **north high school** (2019-2021)
-pursuits
