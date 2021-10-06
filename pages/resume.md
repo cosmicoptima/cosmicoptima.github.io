@@ -9,7 +9,7 @@ permalink: /resume/
 **email:** parafactual {arobase} gmail.com  
 **discord:** celeste#2692
 
-## experience
+## projects
 
 **[mu](https://github.com/cosmicoptima/mu)** (sep 2021 - present)
 
