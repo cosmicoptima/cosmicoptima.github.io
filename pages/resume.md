@@ -4,8 +4,6 @@ title: resume
 permalink: /resume/
 ---
 
-hi, i'm **celeste drummond**
-
 ## contact
 
 **email:** parafactual {arobase} gmail.com  
