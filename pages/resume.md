@@ -13,16 +13,11 @@ hi, i'm **celeste drummond**
 
 ## experience
 
-_(most of my work until very recently has not been public, which is why this_
-_list is so sparse)_
-
 **[mu](https://github.com/cosmicoptima/mu)** (sep 2021 - present)
 
 mu is an MPD client written in Haskell; its current features are basic, but it
 will soon support a DSL for filters, sorts and other aspects of library
-management. I am writing mu due to my dissatisfaction with existing MPD clients,
-which aren't customizable or powerful enough; I am also writing it to gain
-experience with Haskell.
+management.
 
 mu uses [Scotty](https://hackage.haskell.org/package/scotty) as its web
 framework and [libmpd](https://hackage.haskell.org/package/libmpd) to interface
@@ -48,17 +43,9 @@ The design is intentionally minimalistic.
 I trained and used a
 [Doc2Vec](https://radimrehurek.com/gensim/models/doc2vec.html) model to tell
 any Twitter users who inquired two other accounts they were a stylistic "hybrid"
-of. This brought me quite a bit of attention, but eventually fell apart because
-I resigned to doing too much manually; I did this precisely because I didn't
-expect so many requests. If I try this experiment again, I will automate more of
-the process.
-
-Unfortunately I don't have the source, but it was not exactly well organized to
-begin with.
+of.
 
 ## skills
-
-not necessarily, but probably in this order:
 
 ~ python (flask, numpy, beautifulsoup etc.)  
 ~ haskell  
@@ -68,5 +55,5 @@ not necessarily, but probably in this order:
 
 ## education
 
-**north high school** (2019-2021): i've graduated early to focus on other
+**north high school** (2019-2021)
 pursuits
