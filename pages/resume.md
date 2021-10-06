@@ -53,4 +53,4 @@ of.
 
 ## education
 
-**north high school** (2019-2021)
+**north high school** (2019 - 2021)
